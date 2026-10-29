@@ -8,7 +8,7 @@ I am a fullstack AI developer!
 
 * 🌍  I'm based in Lagos state, Nigeria.
 * ✉️  You can contact me at [ayomideilesanmi505@gmail.com](mailto:ayomideilesanmi505@gmail.com)
-* 🚀  I'm currently working on [A task notes taking Web application called Taskyie]
+* 🚀  I'm currently working on [A notes taking Web application called Taskyie]
 * 🧠  I'm learning Javascript
 * 🤝  I'm looking to collaborating on End to end fullstack Projects
 * ⚡  I Am Ilesanmi, Tell Everyone
