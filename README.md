@@ -1,16 +1,16 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Ilesanmi Ayomide
 ========================================================================================================================================
 
-Front-End web developer
+Fullstack web developer
 ------------------------
 
-I am a front-end web developer aspiring to become fullstack!
+I am a fullstack AI developer!
 
 * 🌍  I'm based in Lagos state, Nigeria.
 * ✉️  You can contact me at [ayomideilesanmi505@gmail.com](mailto:ayomideilesanmi505@gmail.com)
 * 🚀  I'm currently working on [A task management Web application called Taskyie]
 * 🧠  I'm learning Javascript
-* 🤝  I'm looking to collaborating on Front end Projects
+* 🤝  I'm looking to collaborating on End to end fullstack Projects
 * ⚡  I Am Ilesanmi, Tell Everyone
 
 ### Languages and Tools:
